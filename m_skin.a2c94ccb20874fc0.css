@@ -1,1 +1,76 @@
-﻿input[type="button"],input[type="submit"],input[type="reset"],button{background-color:#419eda}.footer_login{background-color:#064378}.header_logout:before{background-color:#419eda}.popup_T{background-color:#000}.btn_dial,.btn_dial a{background-color:#419eda}.form_forget .btn_resend{background-color:#419eda;margin-bottom:25px}.icon_inforID>div.on:not(.icon_inforMail){background-color:#419eda}input[type=button].btn_forgetPw{background-color:#419eda}.footer a.active{background-color:#585858;color:#fff}.owl-theme .owl-controls .owl-page.active span,.owl-theme .owl-controls.clickable .owl-page:hover span{opacity:1;background-color:#515151}.btn_ball{margin-left:3%}.btn_sport{height:106px !important;background:url(/Mobile/images/cn/icon_home_sport.jpg) no-repeat center top;background-size:cover}.btn_sport .maintain{line-height:106px}@media(min-width:350px){.btn_sport{height:125px !important}.btn_sport .maintain{line-height:125px}}@media(min-width:375px){.btn_sport{height:133px !important}.btn_sport .maintain{line-height:133px}}@media(min-width:400px){.btn_sport{height:144px !important}.btn_sport .maintain{line-height:144px}}@media(min-width:768px){.btn_sport{height:197px !important}.btn_sport .maintain{line-height:197px}}
+input[type="button"], input[type="submit"], input[type="reset"], button {
+	background-color: #419eda
+}
+.footer_login {
+	background-color: #064378
+}
+.header_logout:before {
+	background-color: #419eda
+}
+.popup_T {
+	background-color: #000
+}
+.btn_dial, .btn_dial a {
+	background-color: #419eda
+}
+.form_forget .btn_resend {
+	background-color: #419eda;
+	margin-bottom: 25px
+}
+.icon_inforID>div.on:not(.icon_inforMail) {
+	background-color: #419eda
+}
+input[type=button].btn_forgetPw {
+	background-color: #419eda
+}
+.footer a.active {
+	background-color: #585858;
+	color: #fff
+}
+.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
+	opacity: 1;
+	background-color: #515151
+}
+.btn_ball {
+	margin-left: 3%
+}
+.btn_sport {
+	height: 106px !important;
+	background: url(/Mobile/images/cn/icon_home_sport.jpg) no-repeat center top;
+	background-size: cover
+}
+.btn_sport .maintain {
+	line-height: 106px
+}
+@media(min-width:350px) {
+	.btn_sport {
+		height: 125px !important
+	}
+	.btn_sport .maintain {
+		line-height: 125px
+	}
+}
+@media(min-width:375px) {
+	.btn_sport {
+		height: 133px !important
+	}
+	.btn_sport .maintain {
+		line-height: 133px
+	}
+}
+@media(min-width:400px) {
+	.btn_sport {
+		height: 144px !important
+	}
+	.btn_sport .maintain {
+		line-height: 144px
+	}
+}
+@media(min-width:768px) {
+	.btn_sport {
+		height: 197px !important
+	}
+	.btn_sport .maintain {
+		line-height: 197px
+	}
+}
